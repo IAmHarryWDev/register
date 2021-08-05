@@ -1,0 +1,13 @@
+{
+  "description": "Harrys Site",
+  "repo": "https://github.com/IAmHarryWDev",
+  "owner": {
+    "username": "IAmHarryWDev",
+    "email": "any@email"
+  },
+  "record": {
+    "A": [
+      "185.221.216.25",
+    ]
+  }
+}
